@@ -37,6 +37,6 @@ public class CreateBridge : MonoBehaviour
     }
     public void OnLoad()
     {
-        GameEvents.current.dispatchOnLoadEvent();
+        //GameEvents.current.dispatchOnLoadEvent();
     }
 }
